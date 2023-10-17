@@ -1,0 +1,27 @@
+{
+  "name": "wik-dps-tp02",
+  "version": "1.0.0",
+  "description": "MODULE DEVOPS - WIK-DPS-TP02",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaGrc/WIK-DPS-TP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaGrc/WIK-DPS-TP02/issues"
+  },
+  "homepage": "https://github.com/LukaGrc/WIK-DPS-TP02#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/node": "^20.8.2"
+  }
+}
